@@ -1,7 +1,7 @@
 <AppUpdater>
   <update>
-    <latestVersion>5.0</latestVersion>
-    <latestVersionCode>5</latestVersionCode>
+    <latestVersion>4.0</latestVersion>
+    <latestVersionCode>23</latestVersionCode>
     <url>https://github.com/javiersantos/AppUpdater/releases</url>
   </update>
 </AppUpdater>
